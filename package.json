@@ -1,0 +1,22 @@
+{
+  "name": "bestemmie",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LorenzoC02/bestemmie.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LorenzoC02/bestemmie/issues"
+  },
+  "homepage": "https://github.com/LorenzoC02/bestemmie#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
